@@ -80,7 +80,7 @@ const scripts = [
   {
     moduleName: "DoubanMonitor",
     url:
-      "https://raw.githubusercontent.com/evilbutcher/Scriptables/master/DoubanMonitor.js",
+      "https://raw.githubusercontent.com/tian-jeff/Scriptables/master/DoubanMonitor.js",
   },
 ];
 if (goupdate == true) update();
