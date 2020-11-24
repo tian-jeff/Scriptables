@@ -77,7 +77,7 @@ const scripts = [
   {
     moduleName: "BilibiliMonitor",
     url:
-      "https://raw.githubusercontent.com/evilbutcher/Scriptables/master/BilibiliMonitor.js",
+      "https://raw.githubusercontent.com/tian-jeff/Scriptables/master/BilibiliMonitor.js",
   },
 ];
 if (goupdate == true) update();
