@@ -30,12 +30,12 @@ const scripts = [
   {
     moduleName: "Env",
     url:
-      "https://raw.githubusercontent.com/tian-jeff/Scriptable/master/Env.js",
+      "https://raw.githubusercontent.com/tian-jeff/Scriptables/master/Env.js",
   },
   {
     moduleName: "Install Scripts",
     url:
-      "https://raw.githubusercontent.com/tian-jeff/Scriptable/master/Install%20Scripts.js",
+      "https://raw.githubusercontent.com/tian-jeff/Scriptables/master/Install%20Scripts.js",
   },
 
 ];
