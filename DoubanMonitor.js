@@ -43,7 +43,7 @@ async function createWidget(res) {
       text4: `• ${items[3]}`,
       text5: `• ${items[4]}`,
       text6: `• ${items[5]}`,
-      battery: "true",
+      //battery: "true",
     },
     preview,
     spacing,
