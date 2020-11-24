@@ -70,7 +70,7 @@ const scripts = [
   {
     moduleName: "ZhihuMonitor",
     url:
-      "https://raw.githubusercontent.com/evilbutcher/Scriptables/master/ZhihuMonitor.js",
+      "https://raw.githubusercontent.com/tian-jeff/Scriptables/master/ZhihuMonitor.js",
   },
 ];
 if (goupdate == true) update();
