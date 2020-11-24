@@ -71,7 +71,7 @@ const scripts = [
   {
     moduleName: "WeiboMonitor",
     url:
-      "https://raw.githubusercontent.com/evilbutcher/Scriptables/master/WeiboMonitor.js",
+      "https://raw.githubusercontent.com/tian-jeff/Scriptables/master/WeiboMonitor.js",
   },
 ];
 if (goupdate == true) update();
